@@ -1,0 +1,3 @@
+/home/phillipxt/projects/compilers/pixeled/Step03/build/CMakeFiles/hydro.dir
+/home/phillipxt/projects/compilers/pixeled/Step03/build/CMakeFiles/edit_cache.dir
+/home/phillipxt/projects/compilers/pixeled/Step03/build/CMakeFiles/rebuild_cache.dir
